@@ -1,0 +1,36 @@
+h1{
+    font-weight: bold;
+    color: white;
+    font-size: x-large;
+}
+.listInput{
+    background-color: rgb(252, 16, 16);
+    text-align: center;
+    padding: 10px;
+}
+input{  
+    height: 30px;
+    width: 50%;
+    border: none;
+}
+input:focus{
+    border: none;
+}
+button{
+    background-color: rgb(229, 215, 215);
+    border: none;
+    height: 35px;
+    width: 15%;
+    margin-left: -4px;
+}
+button:hover{
+    background-color: rgb(202, 195, 195);
+}
+.listItem{
+    height: 40px;
+    background-color:  rgb(229, 215, 215);
+    border: none;
+}
+.close{
+    float: right;
+}
